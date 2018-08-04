@@ -22,7 +22,7 @@ let sampleData = [
     {
         name: 'Person 3',
         age: 75,
-        weight: 400
+        weight: 500
     }
 ]
 
